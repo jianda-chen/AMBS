@@ -1,5 +1,5 @@
 # Learning Generalizable Representations for Reinforcement Learning via Adaptive Meta-learner of Behavioral Similarities
-In this repository, we provide the code for the paper AMBS. If you are going to use the codes for your research, please cite our paper:
+In this repository, we provide the code for the paper AMBS. If you are going to use the codes for your research, please cite our [paper](https://openreview.net/forum?id=zBOI9LFpESK):
 ```
 @inproceedings{
 chen2022learning,
